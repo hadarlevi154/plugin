@@ -7,7 +7,9 @@ This plugin collects evidence from the DummyJSON API.
 The plugin connects to the DummyJSON API and collects the following:
 
 ○ **E1 - User Details** - Collect the authenticated user details (the user you picked to use).
+
 ○ **E2 - Posts**- Collect a list of 60 posts in the system.
+
 ○ **E3 - Posts with Comments** - Collect a list of 60 posts, including each post’s comments.
 
 
